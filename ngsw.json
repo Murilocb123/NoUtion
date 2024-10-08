@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1728348568291,
+  "timestamp": 1728406558450,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,12 +13,14 @@
       "urls": [
         "./chunk-DAQOROHW.js",
         "./chunk-EBI6AG7K.js",
+        "./dark.css",
         "./favicon.ico",
         "./index.html",
-        "./main-NB66GNBG.js",
+        "./light.css",
+        "./main-W2MA4LCR.js",
         "./manifest.webmanifest",
         "./polyfills-SCHOHYNV.js",
-        "./styles-XSY4BAF5.css"
+        "./styles-6SMC3RJ6.css"
       ],
       "patterns": []
     },
@@ -60,6 +62,7 @@
     "./U.svg": "b41acda53382f9f360b950190aec880376ac9ed6",
     "./chunk-DAQOROHW.js": "43aa3e22eadd428c99babbc1519a5e31bd70a473",
     "./chunk-EBI6AG7K.js": "900c757bd81a5965c0b34c31d91a68404a2ea74c",
+    "./dark.css": "a40e344ca0c541b52edf39b73fd11c462b999d4d",
     "./favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "./icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "./icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -69,8 +72,9 @@
     "./icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "./icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "./icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "./index.html": "406ffce3ee8028f2575a4f4df7f4566b3834633b",
-    "./main-NB66GNBG.js": "c94fc74ad9c347d89778aa4faa9bd5145ff4141b",
+    "./index.html": "ad6e0516c2829e919a97bb02395ce611c864b686",
+    "./light.css": "fd4e4bd51c07838b72bff6a24bb5f3b2531d84f5",
+    "./main-W2MA4LCR.js": "e6eb9c5f669878f4dfbda0cdf72e4e277def22b3",
     "./manifest.webmanifest": "6c52889016241be789bda19f4a7b58c9198df0a4",
     "./media/Inter-italic.var-SWFAXF2C.woff2": "6f20a046917bf86d4b6cc29c4e2515bd64d2cb9b",
     "./media/Inter-roman.var-WIJJYAE4.woff2": "7a2602d2ebb08ce895e33addb6fe595f1029431e",
@@ -82,7 +86,7 @@
     "./media/primeicons-P53SE5CV.woff": "361e3af71bb4e515feead2f787348a92a5527158",
     "./nu_branco.svg": "4e86772250304ff813b1c92f6d92a84db38d14d8",
     "./polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
-    "./styles-XSY4BAF5.css": "1e1e4dcfb1fc86fde47db67e007cb38a095631a5",
+    "./styles-6SMC3RJ6.css": "b1c9f72695f6a4eefc82245d38885a81911a99dc",
     "./u_branco.svg": "519c258205964fa7f1e12ce42a854c17f3baf69f"
   },
   "navigationUrls": [
